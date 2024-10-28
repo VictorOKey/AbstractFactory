@@ -34,7 +34,6 @@ public class SolarisFactory : CarsFactory
     }
 }
 
-//классы, представляющие реализацию абстрактных классов
 public class LadaSedan : Sedan
 {
     public LadaSedan()
