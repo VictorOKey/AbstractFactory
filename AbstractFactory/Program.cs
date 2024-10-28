@@ -7,7 +7,6 @@ public abstract class CarsFactory
 public class Sedan{}
 public class Сrossover{}
 
-//Конкретные фабрики
 public class LadaFactory : CarsFactory
 {
     public override Sedan CreateSedan()
