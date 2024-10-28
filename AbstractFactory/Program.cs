@@ -39,14 +39,14 @@ public class LadaSedan : Sedan
 {
     public LadaSedan()
     {
-        Console.WriteLine("Создан седан - марки Lada");
+        Console.WriteLine("Седан - марки Lada");
     }
 }
 public class LadaCrossover : Сrossover
 {
     public LadaCrossover()
     {
-        Console.WriteLine("Создан Кроссовер - марки Lada");
+        Console.WriteLine("Кроссовер - марки Lada");
     }
 }
 
@@ -54,7 +54,7 @@ public class SolarisSedan : Sedan
 {
     public SolarisSedan()
     {
-        Console.WriteLine("Создан седан - марки Solaris");
+        Console.WriteLine("Седан - марки Solaris");
     }
 }
 
@@ -62,7 +62,7 @@ public class SolarisCrossover : Сrossover
 {
     public SolarisCrossover()
     {
-        Console.WriteLine("Создан Кроссовер - марки Solaris");
+        Console.WriteLine("Кроссовер - марки Solaris");
     }
 }
 
